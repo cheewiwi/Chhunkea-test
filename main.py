@@ -3,5 +3,5 @@
 # Print me an area
 
 def area():
-    return 3.14 * 5 * 5
+    return 3.14 * 2 * 2
 print(area())
